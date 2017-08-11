@@ -1,8 +1,8 @@
 {
- "name": "blog",
+ "name": "agendador-unicarioca",
  "version": "1.0.0",
- "description": "personalblog",
- "author": "Awesome Author",
+ "description": "agendador-unicarioca",
+ "author": "Projeto Matrix",
  "private": true,
  "scripts": {
    "postinstall": "npm install express"
